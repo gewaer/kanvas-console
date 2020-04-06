@@ -10,7 +10,7 @@
             :show-sidebar="showSidebar"
             @handle-sidebar="handleSidebar"
         >
-            <span slot="app-logo">KANVAS</span>
+            <span slot="app-logo">CONSOLE</span>
         </app-sidebar>
         <div class="page-container">
             <app-header
